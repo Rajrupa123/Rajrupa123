@@ -1,3 +1,4 @@
+![logo](https://github.com/Rajrupa123/Rajrupa123/blob/main/Rajrupa%20roy.png)
 <h1 align="center">Hi 👋, I'm Rajrupa Roy</h1>
 <h3 align="center">"Empowering the Future: A Passionate Web Developer with a Hunger for Real-World Solutions"</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
