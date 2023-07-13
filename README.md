@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **cm.b.36.rajrupa.roy@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1b72ocHAIuWVa_c3TWtLUWa7rQvA1V_e3/view?usp=sharing](https://drive.google.com/file/d/1b72ocHAIuWVa_c3TWtLUWa7rQvA1V_e3/view?usp=sharing)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rajrupa roy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajrupa roy" height="30" width="40" /></a>
